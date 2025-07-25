@@ -1,0 +1,53 @@
+{
+  "allVideos": [
+    {
+      "id": "ac26",
+      "caption": "Thudarum",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTI2OTg0MzgtOGJlMC00MWU2LTlkMDItYTAwNzhmOGIwOWRmXkEyXkFqcGc@._V1_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/iBVxogg5QwE"
+    },
+    {
+      "id": "ee20",
+      "caption": "Avesham",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjJjY2IxMDYtN2U0My00MzFiLWJlYzItYmJkMDg1MTg3MjhmXkEyXkFqcGc@._V1_.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    }
+  ],
+  "category": [
+    {
+      "id": "562f",
+      "name": "Tutorial",
+      "videos": []
+    },
+    {
+      "id": "c87a",
+      "name": "Trailer",
+      "videos": []
+    },
+    {
+      "id": "ef48",
+      "name": "Albums",
+      "videos": []
+    }
+  ],
+  "History": [
+    {
+      "id": "968b",
+      "caption": "ARM",
+      "youtubeUrl": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "formatedDate": "7/21/2025, 1:52:16 PM"
+    },
+    {
+      "id": "62b9",
+      "caption": "joseph",
+      "youtubeUrl": "https://www.youtube.com/embed/dgXWJ1ds-cA",
+      "formatedDate": "7/21/2025, 1:52:18 PM"
+    },
+    {
+      "id": "3dae",
+      "caption": "Thudarum",
+      "youtubeUrl": "https://www.youtube.com/embed/iBVxogg5QwE",
+      "formatedDate": "7/21/2025, 2:41:41 PM"
+    }
+  ]
+}
